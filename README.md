@@ -25,23 +25,17 @@ Except for the initial layout of the pieces and the movement of the Maharaja, th
 
 #### For the Maharajah
 
-<<<<<<< HEAD
 ![cursor-left](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/cursor-left.png)  ![cursor-right](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/cursor-right.png)  ![cursor-up](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/cursor-up.png)  ![cursor-down](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/cursor-down.png) 
 
 And **Enter key** to select.
 
 #### For the Sepoys
 ![a](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/a.png)  ![w](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/w.png)  ![s](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/s.png)  ![d](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/d.png) 
-
+ 
 And **Space bar** to select.
-=======
-![Enter](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/enter.png)  ![cursor-left](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/cursor-left.png)  ![cursor-right](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/cursor-right.png)  ![cursor-up](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/cursor-up.png)  ![cursor-down](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/cursor-down.png) 
-
-
-#### For the Sepoys
->>>>>>> master
 
 #### Both users
+
 
 
 
