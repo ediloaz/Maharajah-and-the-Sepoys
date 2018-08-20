@@ -4,7 +4,7 @@ This program was created as part of an evaluation of a bachelor course in engine
 
 For example, the following image shown a virtual board of this game:
 
-![Example of board of the Maharajah and the Sepoys](https://github.com/ediloaz/Maharajah-and-the-Sepoys/blob/master/settings/board.png)
+![Example of board of the Maharajah and the Sepoys](https://github.com/ediloaz/Maharajah-and-the-Sepoys/blob/master/settings/board.png =10x10)
 
 
 ## About of the *Maharajah and the Sepoys*
@@ -19,7 +19,7 @@ Multiple variations have arisen from the game, based on the modification of the 
 Except for the initial layout of the pieces and the movement of the Maharaja, the rules of the game are almost identical to conventional chess. In this variant there is no promotion of pawns (change the piece for another when it reaches the last row), nor the castling (special movement between the king and the tower).
 
 
-## Input
+## A mini-User's Manual
 
 The program only receive a parameter as input, the N. On windows you must open GHCI (consulting [prerequisites](https://github.com/ediloaz/n-queens-problem-HASKELL#prerequisites)) and on Linux you must open terminal and press *ghci*.
 
@@ -81,6 +81,8 @@ Is necessary Glasgow Haskell Compiler, is both an interpreter and native-code co
 
 ## Authors
 
-* **Edisson López** - *Main developer* - [ediloaz](https://github.com/ediloaz)
+* **Edisson López** - *Developer* - [ediloaz](https://github.com/ediloaz)
+* **Joel Barrantes** - *Developer* - [JoelBarrantes](https://github.com/JoelBarrantes)
+
 
 See also the list of [repositories](https://github.com/ediloaz?tab=repositories) who I participated/created.
