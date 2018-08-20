@@ -4,7 +4,7 @@ This program was created as part of an evaluation of a bachelor course in engine
 
 For example, the following image shown a virtual board of this game:
 
-![Example of board of the Maharajah and the Sepoys](https://github.com/ediloaz/Maharajah-and-the-Sepoys/blob/master/settings/board.png =10x10)
+![Example of board of the Maharajah and the Sepoys](https://github.com/ediloaz/Maharajah-and-the-Sepoys/blob/master/settings/board.png)
 
 
 ## About of the *Maharajah and the Sepoys*
@@ -20,6 +20,21 @@ Except for the initial layout of the pieces and the movement of the Maharaja, th
 
 
 ## A mini-User's Manual
+
+### Keys to use
+
+#### For the Maharajah
+
+![Enter](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/enter.png)  ![cursor-left](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/cursor-left.png)  ![cursor-right](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/cursor-right.png)  ![cursor-up](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/cursor-up.png)  ![cursor-down](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/cursor-down.png) 
+
+
+#### For the Sepoys
+
+#### Both users
+
+
+
+
 
 The program only receive a parameter as input, the N. On windows you must open GHCI (consulting [prerequisites](https://github.com/ediloaz/n-queens-problem-HASKELL#prerequisites)) and on Linux you must open terminal and press *ghci*.
 
