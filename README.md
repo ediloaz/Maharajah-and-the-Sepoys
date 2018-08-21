@@ -35,6 +35,10 @@ And **Enter key** to select.
 And **Space bar** to select.
 
 #### Both users
+**I key** to leave the game and **O key** to tie the game (both users will must accept the tie).
+
+#### Change the color board
+![1](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/1.png)  ![2](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/2.png)  ![3](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/3.png)  ![4](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/4.png)  ![5](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/5.png)  ![6](https://github.com/q2apro/keyboard-keys-speedflips/blob/master/single-keys-blank/200dpi/6.png) 
 
 
 
