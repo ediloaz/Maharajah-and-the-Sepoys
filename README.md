@@ -1,4 +1,4 @@
-     # Maharajah and the Sepoys
+# Maharajah and the Sepoys
 
 This program was created as part of an evaluation of a bachelor course in engineering (**at the 2014**). Implement the board game "Maharajah and the Sepoys". It provides a user interface that allows you to play a game of "Maharajah and the Sepoys" between two people.
 
